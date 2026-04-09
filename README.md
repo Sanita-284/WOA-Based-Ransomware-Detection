@@ -59,7 +59,7 @@ F(X) = 0.99 * Error(K, X) + 0.01 * (|S_X| / |T|)
 ## 🗄️ Dataset Reference
 
 Simulation inspired by the **MalwareBazaar Execution Dataset:**
-- 58,596 memory snapshots · 86 Volatility-extracted features · 58 malware families
+- CIC MalMen is also used as a secondary dataset
 
 > **Note:** The demo simulates behavior inspired by this dataset — it does not use it directly in real-time.
 
