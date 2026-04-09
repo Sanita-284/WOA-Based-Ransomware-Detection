@@ -12,7 +12,8 @@ This repo accompanies the research paper:
 
 ---
 
-## 🔗 Live Demo
+## 🔗 Live Demo:
+https://sanita-284.github.io/WOA-Based-Ransomware-Detection/
 
 
 ---
