@@ -12,6 +12,17 @@ This repo accompanies the research paper:
 
 ---
 
+## 🔧 Implementation Availability
+
+This project includes both:
+
+- **Python Implementation** — Core WOA-based feature selection and ransomware detection logic  
+- **HTML Interactive Demo** — Visual simulation of optimization and feature selection process  
+
+> The Python code demonstrates the underlying algorithmic workflow, while the web demo provides an intuitive visualization of the model in action.
+
+---
+
 ## 🔗 Live Demo:
 https://sanita-284.github.io/WOA-Based-Ransomware-Detection/
 
